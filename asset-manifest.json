@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.965419d1.css",
-    "main.js": "/static/js/main.b7429149.js",
+    "main.css": "/static/css/main.a761fe3d.css",
+    "main.js": "/static/js/main.08d6c421.js",
     "static/media/7_kopia (2).jpg": "/static/media/7_kopia (2).3cd4bc98f9b648a737c0.jpg",
     "static/media/Montserrat-Bold.woff": "/static/media/Montserrat-Bold.180ba33d8de7dcfe80a0.woff",
     "static/media/Montserrat-ExtraBold.woff": "/static/media/Montserrat-ExtraBold.75ee4192581c503f2484.woff",
@@ -13,24 +13,14 @@
     "static/media/Montserrat-Bold.woff2": "/static/media/Montserrat-Bold.cfceaf4e74789fc9df24.woff2",
     "static/media/Montserrat-Medium.woff2": "/static/media/Montserrat-Medium.d6bbb7c3c86aa8edcd0a.woff2",
     "static/media/Montserrat-Light.woff2": "/static/media/Montserrat-Light.cf7b6a954e570df2f420.woff2",
-    "static/media/Axiforma-Bold.woff": "/static/media/Axiforma-Bold.a5763688e85a57f1a5f6.woff",
-    "static/media/Axiforma-Medium.woff": "/static/media/Axiforma-Medium.27f762a5c4f1236bf738.woff",
-    "static/media/Axiforma-ExtraBold.woff": "/static/media/Axiforma-ExtraBold.6e089bf674d0c9dac02d.woff",
-    "static/media/Axiforma-Regular.woff": "/static/media/Axiforma-Regular.2b258adf3be92e4cc1ad.woff",
-    "static/media/Axiforma-Light.woff": "/static/media/Axiforma-Light.bbb27e30906f29b01295.woff",
-    "static/media/Axiforma-Bold.woff2": "/static/media/Axiforma-Bold.a3329a3314dd825fab49.woff2",
-    "static/media/Axiforma-ExtraBold.woff2": "/static/media/Axiforma-ExtraBold.7be4f7656673f354c7aa.woff2",
-    "static/media/Axiforma-Medium.woff2": "/static/media/Axiforma-Medium.1470f64529db935191c3.woff2",
-    "static/media/Axiforma-Regular.woff2": "/static/media/Axiforma-Regular.7f1cf476b4119c8b770e.woff2",
-    "static/media/Axiforma-Light.woff2": "/static/media/Axiforma-Light.2eda7463cbabc440bf97.woff2",
     "static/media/projectImg_1.jpg": "/static/media/projectImg_1.3c4707d63de968daa065.jpg",
     "static/media/projectImg_2.jpg": "/static/media/projectImg_2.7089ffad9ec47cd6f45b.jpg",
     "index.html": "/index.html",
-    "main.965419d1.css.map": "/static/css/main.965419d1.css.map",
-    "main.b7429149.js.map": "/static/js/main.b7429149.js.map"
+    "main.a761fe3d.css.map": "/static/css/main.a761fe3d.css.map",
+    "main.08d6c421.js.map": "/static/js/main.08d6c421.js.map"
   },
   "entrypoints": [
-    "static/css/main.965419d1.css",
-    "static/js/main.b7429149.js"
+    "static/css/main.a761fe3d.css",
+    "static/js/main.08d6c421.js"
   ]
 }
