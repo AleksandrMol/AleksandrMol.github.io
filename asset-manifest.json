@@ -1,27 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.6c723ac6.css",
-    "main.js": "/static/js/main.818f754d.js",
-    "static/media/7_kopia (2).jpg": "/static/media/7_kopia (2).3cd4bc98f9b648a737c0.jpg",
-    "static/media/Montserrat-Bold.woff": "/static/media/Montserrat-Bold.180ba33d8de7dcfe80a0.woff",
-    "static/media/Montserrat-ExtraBold.woff": "/static/media/Montserrat-ExtraBold.75ee4192581c503f2484.woff",
-    "static/media/Montserrat-Regular.woff": "/static/media/Montserrat-Regular.3db65dc4b858f0fed4fb.woff",
-    "static/media/Montserrat-Medium.woff": "/static/media/Montserrat-Medium.d42dad28f6470e5162c2.woff",
-    "static/media/Montserrat-Light.woff": "/static/media/Montserrat-Light.be142e6c3747b7b87e60.woff",
-    "static/media/Montserrat-ExtraBold.woff2": "/static/media/Montserrat-ExtraBold.724e2fc5b5c96758e350.woff2",
-    "static/media/Montserrat-Regular.woff2": "/static/media/Montserrat-Regular.8b56391ed36ea95337c6.woff2",
-    "static/media/Montserrat-Bold.woff2": "/static/media/Montserrat-Bold.cfceaf4e74789fc9df24.woff2",
-    "static/media/Montserrat-Medium.woff2": "/static/media/Montserrat-Medium.d6bbb7c3c86aa8edcd0a.woff2",
-    "static/media/Montserrat-Light.woff2": "/static/media/Montserrat-Light.cf7b6a954e570df2f420.woff2",
-    "static/media/projectImg_1.jpg": "/static/media/projectImg_1.3c4707d63de968daa065.jpg",
-    "static/media/projectImg_2.jpg": "/static/media/projectImg_2.7089ffad9ec47cd6f45b.jpg",
-    "static/media/projectImg_3.jpg": "/static/media/projectImg_3.2927ea512da73b9d3966.jpg",
+    "main.css": "/static/css/main.4b7a81f9.css",
+    "main.js": "/static/js/main.10176cdc.js",
+    "static/js/562.90a65226.chunk.js": "/static/js/562.90a65226.chunk.js",
+    "static/js/156.a4c7ec61.chunk.js": "/static/js/156.a4c7ec61.chunk.js",
+    "static/js/711.29ac542a.chunk.js": "/static/js/711.29ac542a.chunk.js",
+    "static/js/65.3b3ae3fe.chunk.js": "/static/js/65.3b3ae3fe.chunk.js",
+    "static/js/170.11bded7e.chunk.js": "/static/js/170.11bded7e.chunk.js",
+    "static/js/996.8c7a8fe5.chunk.js": "/static/js/996.8c7a8fe5.chunk.js",
     "index.html": "/index.html",
-    "main.6c723ac6.css.map": "/static/css/main.6c723ac6.css.map",
-    "main.818f754d.js.map": "/static/js/main.818f754d.js.map"
+    "main.4b7a81f9.css.map": "/static/css/main.4b7a81f9.css.map",
+    "main.10176cdc.js.map": "/static/js/main.10176cdc.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c723ac6.css",
-    "static/js/main.818f754d.js"
+    "static/css/main.4b7a81f9.css",
+    "static/js/main.10176cdc.js"
   ]
 }

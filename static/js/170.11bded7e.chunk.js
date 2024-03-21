@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapptrix_test=self.webpackChunkapptrix_test||[]).push([[170],{3170:e=>{e.exports=JSON.parse('{"title":"ORDER","toMenu":"Back to menu","orderForm":{"button":"Make an order","adress":"Adress","pay":"Payment method","cash":"Cash","card":"Card","required":"Field is required"}}')}}]);
